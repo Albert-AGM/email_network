@@ -14,7 +14,6 @@ Next, clone this project by opening a terminal and typing the following commands
 ```
 $ git clone https://github.com/Albert-GM/email_network.git
 $ cd email_network
-
 ```
 
 Next, run the following commands:
@@ -22,10 +21,5 @@ Next, run the following commands:
 ```
 $ conda env create -f environment.yml
 $ conda activate email_network
-$ python -m ipykernel install --user --name=python3
 ```
 
-
-In order to run the notebook without errors of dependencies you can download the repository and execute the following command inside the folder to create an isolated environment with conda:
-
-*conda env create --file conda_env.yml*
