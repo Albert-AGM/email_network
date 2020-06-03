@@ -22,4 +22,8 @@ Next, run the following commands:
 $ conda env create -f environment.yml
 $ conda activate email_network
 ```
+Finally, start Jupyter:
 
+```
+$ jupyter notebook
+```
