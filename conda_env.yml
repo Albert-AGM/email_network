@@ -1,4 +1,4 @@
-name: /disks/hdd2T/github_repos/email_network/conda_env
+name: email_network
 channels:
   - conda-forge
   - defaults
@@ -45,6 +45,7 @@ dependencies:
   - jpeg=9b=h024ee3a_2
   - json5=0.9.0=py_0
   - jsonschema=3.2.0=py37hc8dfbb8_1
+  - jupyter
   - jupyter_client=6.1.3=py_0
   - jupyter_core=4.6.3=py37hc8dfbb8_1
   - jupyterlab=2.1.3=py_0
